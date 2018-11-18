@@ -395,7 +395,7 @@ p {
 h2 {
     margin: 0;
     font-size: 1.15em;
-    padding: 0;
+    padding: 1vw 0vw;
     color: #bfa469;
     font-weight: 100;
     font-family: "Bulgatti", Helvetica, Arial, sans-serif;
